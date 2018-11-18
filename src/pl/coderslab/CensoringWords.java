@@ -14,7 +14,7 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
-public class Task5 {
+public class CensoringWords {
     public static void main(String[] args) {
         headersInFile("Interia.txt", "http://www.interia.pl");
         String[] cens = {"Tak", "ryba",};

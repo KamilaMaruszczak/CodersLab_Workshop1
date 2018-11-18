@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 import org.apache.commons.lang3.StringUtils;
 
-public class Task4 {
+public class Dice {
 
     public static void main(String[] args) {
         System.out.println("Wynik rzutu to: " + ThrowADice());
